@@ -1,0 +1,11 @@
+body{
+    box-sizing: border-box;
+    color:blue
+    background-color antiquewhite
+}
+
+img{
+    border: radius 45%; 
+    max-width: 45vw;
+    min-width: 44vw;
+}
